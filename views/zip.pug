@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+  p #{message}
+
+  if error
+    p Error : #{error}
+  if result
+    p Result: #{result}
