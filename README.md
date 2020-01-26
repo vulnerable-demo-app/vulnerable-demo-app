@@ -30,3 +30,9 @@ demo-secret-scanning
 [![Build Status](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app.svg?branch=demo-secret-scanning)](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-secret-scanning/badge.svg)](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-secret-scanning)
+
+demo-typosquatters-scanning
+
+[![Build Status](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app.svg?branch=demo-typosquatters-scanning)](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-typosquatters-scanning/badge.svg)](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-typosquatters-scanning)
