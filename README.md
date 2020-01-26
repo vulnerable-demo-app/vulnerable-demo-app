@@ -19,4 +19,14 @@ demo-dependency-scanning
 
 [![Known Vulnerabilities](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-dependency-scanning/badge.svg)](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-dependency-scanning) 
 
+demo-code-scanning
 
+[![Build Status](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app.svg?branch=demo-code-scanning)](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-dependency-scanning/badge.svg)](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-code-scanning)
+
+demo-secret-scanning
+
+[![Build Status](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app.svg?branch=demo-secret-scanning)](https://travis-ci.org/vulnerable-demo-app/vulnerable-demo-app)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-dependency-scanning/badge.svg)](https://snyk.io/test/github/vulnerable-demo-app/vulnerable-demo-app/demo-secret-scanning)
