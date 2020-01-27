@@ -26,7 +26,7 @@
 	},
 	"husky": {
 		"hooks": {
-			"pre-commit": "scan-for-secrets && detect-secrets"
+			"pre-commit": "npm run scan-for-secrets && npm run detect-secrets"
 		}
 	}
 }
