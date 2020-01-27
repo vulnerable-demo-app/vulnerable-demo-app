@@ -31,6 +31,6 @@
 		}
 	},
 	"lint-staged": {
-		"*.js": "eslint --cache --fix"
+		"*.js": "npm run lint -- --max-warnings=0 --cache --fix"
 	}
 }
